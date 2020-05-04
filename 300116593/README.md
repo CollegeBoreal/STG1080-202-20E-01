@@ -1,7 +1,5 @@
 # 300116593 
 
-https://github.com/hamidmallim
-
 # Participation
 
 |:hash:| Boréal :id:| Nom, Prénoms .                     |  Github :id:                                          |
