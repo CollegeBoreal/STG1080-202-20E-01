@@ -2,8 +2,11 @@
 
 # Participation
 
-|:hash:| Boréal :id:| Nom, Prénoms                                    |  Github :id:                                   |
+|:hash:| Boréal :id:             | Nom, Prénoms                       |  Github :id:                                   |
 |------|-------------------------|------------------------------------|------------------------------------------------|
-|   08 |  [300116593](300116593) | Hamid, Adam `Souleymane`           | [hamidmallim](https://github.com/hamidmallim)  |
+|   01 |  [300112687](300112687) | Tshimanga, `Joseph` Hervé Nsomwe   | [jthn9022](https://github.com/jthn9022)        |
+|   02 |  [300116593](300116593) | Hamid, Adam `Souleymane`           | [hamidmallim](https://github.com/hamidmallim)  |
 
-300112687
+
+
+
