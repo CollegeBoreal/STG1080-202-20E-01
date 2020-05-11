@@ -2,6 +2,8 @@
 
 * Echange avec le superviseur de stage du Collège
 
+* lecture video (1,2,3, 4)
+
 # Mardi - 5 mai 2020
 
 # Mercredi - 6 mai 2020
