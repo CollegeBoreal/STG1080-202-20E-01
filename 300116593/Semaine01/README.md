@@ -4,10 +4,13 @@
 
 * lecture video (1,2,3, 4)
 
-# Mardi - 5 mai 2020
-
-# Mercredi - 6 mai 2020
-
-# Jeudi - 7 mai 2020
-
+# Mardi - 10 mai 2020
+how to Count in Binary
+Quiz
+# Mercredi -  17 mai 2020
+Assemble a Commputer
+Quiz
+# Jeudi - 24 mai 2020
+Accessing Qwiklabs
+Quiz
 # Vendredi - 8 mai 2020
